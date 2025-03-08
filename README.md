@@ -1,4 +1,4 @@
-# MERN To-Do App (Backend)
+# To-Do App (MERN STACK (Backend))
 
 This is the backend of a simple To-Do application built using Node.js, Express.js, and MongoDB. It provides CRUD (Create, Read, Update, Delete) operations for managing tasks.
 
