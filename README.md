@@ -1,6 +1,6 @@
 # TASK MANAGER
 
-This is the backend of a simple To-Do application built using Node.js, Express.js, and MongoDB. It provides CRUD (Create, Read, Update, Delete) operations for managing tasks.
+This is a Task Management System developed using Node.js, Express.js, and MongoDB. The platform enables users to efficiently manage tasks through full CRUD (Create, Read, Update, Delete) functionality. It is designed as a RESTful API, providing endpoints to facilitate seamless task operations.
 
 ## Features
 - Create a new task
